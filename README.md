@@ -42,11 +42,11 @@ IRIS_DATASET.ipynb: Jupyter notebook containing the full code and analysis.
 
 📌 Key Findings
 
-K-Means achieved a high ARI score, closely matching actual labels.
+DBSCAN achieved a high ARI score, closely matching actual labels.
 
 Agglomerative Clustering showed reasonable results with distinguishable clusters.
 
-DBSCAN required tuning but performed well in identifying core samples and noise.
+k-MEANS required tuning but performed well in identifying core samples and noise.
 
 📷 Visualizations
 
